@@ -1,0 +1,8 @@
+### Project ###
+venv
+
+### Django ###
+__pycache__/
+db.sqlite3-journal
+media
+
